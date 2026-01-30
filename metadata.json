@@ -1,0 +1,8 @@
+{
+  "name": "Kingdom Architect Dashboard",
+  "description": "A high-fidelity medieval strategy dashboard inspired by classic isometric game interfaces, featuring real-time AI world-building assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
